@@ -5,4 +5,17 @@
  */
 body {
   padding-top: 56px;
+    color: white;
+    background-color: black;
+}
+
+.card {
+    background-color: black;
+    border-color: gold;
+}
+
+.btn-primary{
+    background-color: gold;
+    color: black;
+    border: black;
 }
